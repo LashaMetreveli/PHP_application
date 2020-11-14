@@ -1,6 +1,0 @@
-Routes
-
-/
-/employees
-/companies
-
